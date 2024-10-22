@@ -1,5 +1,9 @@
 ## Hola soy Camila 👋
 
+<img src="Programacion.jpg" alt="Descripción de la imagen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pasatiempos%20?logoColor=yellow">
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
