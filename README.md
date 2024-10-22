@@ -4,8 +4,8 @@
 
 Sobre mi..
 
-Estudiante:(Tecnico en Programacion)🚀
-Idiomas:Ingles/Español😊
+Estudiante:(Tecnico en Programacion)🚀<br>
+Idiomas:Ingles/Español😊<br>
 Lenguajes:HTML/CSS/JAVASCRIPT/PHP
 
 <!--
