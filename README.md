@@ -1,7 +1,12 @@
 ## Hola soy Camila 👋
 
 <img src="![imange](https://github.com/user-attachments/assets/0a0161de-82a6-4157-af1e-f8f54ddec5dd)" alt="Descripción de la imagen">
-<img alt="Static Badge" src="https://img.shields.io/badge/Pasatiempos%20?logoColor=yellow">
+
+Sobre mi..
+
+Estudiante:(Tecnico en Programacion)🚀
+Idiomas:Ingles/Español😊
+Lenguajes:HTML/CSS/JAVASCRIPT/PHP
 
 <!--
 Here are some ideas to get you started:
