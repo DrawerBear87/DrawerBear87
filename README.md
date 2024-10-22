@@ -1,6 +1,6 @@
 ## Hola soy Camila 👋
 
-<img src="Programacion.jpg" alt="Descripción de la imagen">
+<img src="" alt="Descripción de la imagen">
 <img alt="Static Badge" src="https://img.shields.io/badge/Pasatiempos%20?logoColor=yellow">
 
 <!--
