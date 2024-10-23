@@ -3,8 +3,9 @@
 <div align="center">
 <h1 align="center">Hola, soy "Camila 👋</h1>
 </div>
+<div>
 <img src="![Aprendiendo en el proceso](https://github.com/user-attachments/assets/7aa22969-8b1b-47a2-82ee-610830234b6d)">
-
+</div>
 ## Sobre mi
 
 - ⭐ Github Star (in process) ⭐ 
