@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy "Camila 👋</h1>
 </div>
-<img src="file:///C:/Users/HP/Downloads/Aprendiendo%20en%20el%20proceso...pdf">
+<img src="![Aprendiendo en el proceso](https://github.com/user-attachments/assets/7aa22969-8b1b-47a2-82ee-610830234b6d)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
