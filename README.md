@@ -1,12 +1,26 @@
 ## Hola soy Camila 👋
 
-<img src="![imange](https://github.com/user-attachments/assets/0a0161de-82a6-4157-af1e-f8f54ddec5dd)" alt="Descripción de la imagen">
+<div align="center">
+<h1 align="center">Hola, soy "Camila 👋</h1>
+</div>
+<img src="file:///C:/Users/HP/Downloads/Aprendiendo%20en%20el%20proceso...pdf">
 
-Sobre mi..
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-Estudiante:(Tecnico en Programacion)🚀<br>
-Idiomas:Ingles/Español😊<br>
-Lenguajes:HTML/CSS/JAVASCRIPT/PHP
+## Sobre mi
+
+- ⭐ Github Star (in process) ⭐ 
+- 📲 Mobile developer
+- 🖥️ Tecnico en Programación
+- 💬 Ingles/Español
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
+- ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
+<br>
+
+
 
 <!--
 Here are some ideas to get you started:
