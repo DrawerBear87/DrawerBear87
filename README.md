@@ -1,10 +1,9 @@
-## Hola soy Camila 👋
 
 <div align="center">
 <h1 align="center">Hola, soy "Camila 👋</h1>
 </div>
 <div align="center">
-<img src="https://i.pinimg.com/736x/35/71/8a/35718a34e7d1a284e14881b4325d5e60.jpg">
+<img src="https://i.pinimg.com/736x/35/71/8a/35718a34e7d1a284e14881b4325d5e60.jpg" width:"300px" height:"auto">
 </div>
 
 ## Sobre mi
