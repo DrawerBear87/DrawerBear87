@@ -4,7 +4,7 @@
 <h1 align="center">Hola, soy "Camila 👋</h1>
 </div>
 <div>
-<img src="https://mx.pinterest.com/pin/1140044093180675912/">
+<img src="https://i.pinimg.com/736x/35/71/8a/35718a34e7d1a284e14881b4325d5e60.jpg">
 </div>
 
 ## Sobre mi
