@@ -8,8 +8,6 @@
 
 ## Sobre mi
 
-- ⭐ Github Star (in process) ⭐ 
-- 📲 Mobile developer
 - 🖥️ Tecnico en Programación
 - 💬 Ingles/Español
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
