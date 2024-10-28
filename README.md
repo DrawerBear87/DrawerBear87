@@ -13,7 +13,7 @@
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
-![GitHub followers](https://img.shields.io/github/followers/DrawerBear87)
+[GitHub followers](https://img.shields.io/github/followers/DrawerBear87)
 
 
 
