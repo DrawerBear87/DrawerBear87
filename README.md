@@ -14,12 +14,7 @@
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
 
-GET /github/followers/:user
-user — path
-DrawerBear87
-Copy
-https://img.shields.io/github/followers/DrawerBear87
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DrawerBear87">
 
 <!--
 Here are some ideas to get you started:
