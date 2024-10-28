@@ -13,14 +13,8 @@
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
-    <style>
-        .social-counter {
-            display: flex;
-            gap:"20px";
-            font-family: Arial, sans-serif;
-        }
-        .counter {
-            text-align: center;
+
+
         }
         .icon {
             width: "30px";
@@ -32,14 +26,11 @@
 
 <div class="social-counter">
     <div class="counter">
-        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook">
+        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" display: flex;
+             height:"30px"; text-align:"center"; >
         <p>Likes: 0</p>
     </div>
-    <div class="counter">
-        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Instagram_icon.png" alt="Instagram">
-        <p>Seguidores: 0</p>
-    </div>
-</div>
+ 
 
 </body>
 
