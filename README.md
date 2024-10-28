@@ -5,7 +5,8 @@
 <div align="center">
 <img src="https://i.pinimg.com/736x/35/71/8a/35718a34e7d1a284e14881b4325d5e60.jpg" width:"300px" height:"auto">
 </div>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DrawerBear87?style=flat-square&logoColor=yellow">
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DrawerBear87?logoColor=yellow">
 
 
  Sobre mi
