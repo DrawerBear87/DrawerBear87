@@ -20,13 +20,14 @@
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
 
-<div>
+
  *Videos de YOUTUBE
+ <div
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
   <img src="https://img.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height="281" alt="video">
-  <p>Como hacer una pagina HTML!!</p>
  </a>
 </div>
+<p>Como hacer una pagina HTML!</p>
 <!--
 Here are some ideas to get you started:
 
