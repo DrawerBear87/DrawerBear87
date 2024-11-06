@@ -12,7 +12,7 @@
 
 
 
- *Sobre mi
+<h1 align="center">Sobre mi</h1>
 
 - 🖥️ Tecnico en Programación
 - 💬 Ingles/Español
@@ -21,7 +21,7 @@
 <br>
 
 
- *Videos de YOUTUBE
+<h1 align="center">Videos de youtube</h1>
  <div
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
   <img src="https://img.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height="281" alt="video">
