@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hola, soy "Camila 👋</h1>
+<h1>Hola, soy "Camila 👋</h1>
 </div>
 <div align="center">
 <img src="https://i.pinimg.com/736x/35/71/8a/35718a34e7d1a284e14881b4325d5e60.jpg" width:"300px" height:"auto">
@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">Sobre mi</h1>
+<h1>Sobre mi</h1>
 
 - 🖥️ Tecnico en Programación
 - 💬 Ingles/Español
@@ -21,8 +21,8 @@
 <br>
 
 
-<h1 align="center">Videos de youtube</h1>
- <div
+<h1>Videos de youtube</h1>
+ <div align="center">
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
   <img src="https://img.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height="281" alt="video">
  </a>
