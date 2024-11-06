@@ -12,7 +12,7 @@
 
 
 
- Sobre mi
+ *Sobre mi
 
 - 🖥️ Tecnico en Programación
 - 💬 Ingles/Español
@@ -21,8 +21,10 @@
 <br>
 
 <div>
+ *Videos de YOUTUBE
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
   <img src="https://img.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height="281" alt="video">
+  <p>Como hacer una pagina HTML!!</p>
  </a>
 </div>
 <!--
