@@ -19,10 +19,10 @@
 - 🎥 Te enseño a programar apps en [Youtube](https://www.youtube.com/@AprendiendoConCamila-n7u)
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
-[Ver mi video](https://www.youtube.com/watch?v=2NiUfoYcZv0)
+
 <div>
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
-  img src="https://www.youtube.com/watch?v=2NiUfoYcZv0" width="500" height"281" alt"video">
+  img src="https://www.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height"281" alt"video">
  </a>
 </div>
 <!--
