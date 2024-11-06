@@ -20,7 +20,11 @@
 - ⭐ Tejedora/Emprendedora en tiempos libres [Instagram](https://www.instagram.com/alimac_things/)
 <br>
 [Ver mi video](https://www.youtube.com/watch?v=2NiUfoYcZv0)
-
+<div>
+ <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
+  img src="https://www.youtube.com/watch?v=2NiUfoYcZv0" width="500" height"281" alt"video">
+ </a>
+</div>
 <!--
 Here are some ideas to get you started:
 
