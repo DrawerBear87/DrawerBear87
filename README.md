@@ -28,6 +28,13 @@
  </a>
 </div>
 <p>Como hacer una pagina HTML!</p>
+
+<div align="center">
+ <a href="https://www.youtube.com/watch?v=egsJvKGzdug">
+  <img src="https://img.youtube.com/vi/egsJvKGzdug/maxresdefault.jpg" width="500" height="281" alt="video">
+ </a>
+</div>
+<p>Como vincular una pagina HTML con un archivo css!</p>
 <!--
 Here are some ideas to get you started:
 
