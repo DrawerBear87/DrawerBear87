@@ -22,7 +22,7 @@
 
 <div>
  <a href="https://www.youtube.com/watch?v=2NiUfoYcZv0">
-  <img src="https://www.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height"281" alt"video">
+  <img src="https://www.youtube.com/vi/2NiUfoYcZv0/maxresdefault.jpg" width="500" height="281" alt="video">
  </a>
 </div>
 <!--
