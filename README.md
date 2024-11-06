@@ -7,7 +7,8 @@
 </div>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DrawerBear87?logoColor=yellow">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/AprendiendoConCamila">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCihXpe9azJq033ybaZv8hhA?logoColor=yellow">
+
 
 
  Sobre mi
